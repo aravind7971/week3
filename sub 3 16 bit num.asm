@@ -1,7 +1,7 @@
 org 100h
 
-num1 dw 5678h  ; New 16-bit first operand
-num2 dw 1A2Ch  ; New 16-bit second operand
+num1 dw 5668h  
+num2 dw 2A4Ch  
 
 start:
     mov ax, num1
