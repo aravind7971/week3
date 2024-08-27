@@ -1,7 +1,7 @@
 org 100h
 
-num1 db 24h
-num2 db 21h 
+num1 db 39h
+num2 db 7h 
 
 start:
     mov al, num1
